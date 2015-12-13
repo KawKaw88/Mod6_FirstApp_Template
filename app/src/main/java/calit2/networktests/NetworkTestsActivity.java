@@ -13,6 +13,8 @@ import android.provider.Settings;
 import android.view.View;
 import android.widget.TextView;
 
+// Trivial edit 12-13-2015 3:33pm
+
 /**
  * Name: MainActivity
  * Description: Enables User to test the different network connections
